@@ -1,2 +1,2 @@
 #!bin/bash
-echo "hola"
+echo "hola modificado por Oscar"
